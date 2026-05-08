@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Boamah 👋</h1>
 <h3 align="center">Engineer for Human Impact | Backend & Frontend Developer | Systems Thinker | Educator turned Technologist</h3>
 
-<img src="https://img.shields.io/badge/ALX%20Software%20Engineer-Fullstack-blueviolet" />
+<img src="https://img.shields.io/badge/Software%20Engineer-Fullstack-blueviolet" />
 <img src="https://img.shields.io/badge/Lifelong%20Learner-Always%20Growing-yellowgreen" />
 <img src="https://img.shields.io/badge/Building%20for-Human%20Impact-lightblue" />
 
